@@ -65,3 +65,7 @@ The pipeline checks:
 
 ```bash
 docker compose up --build
+
+## Airflow Pipeline Success
+
+![Airflow Success](screenshots/airflow_success.png)
