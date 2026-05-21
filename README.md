@@ -21,6 +21,10 @@ Chicago Crimes CSV
 → Data Quality Checks
 → Analytics Tables
 
+## Architecture Diagram
+
+![Architecture](screenshots/architecture.png)
+
 ## Airflow DAG
 
 DAG name:
