@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Airflow
+logs/
+airflow.db
+
+# Mac
+.DS_Store
+
+# Environment
+.env
+
+# Spark
+metastore_db/
+spark-warehouse/
+
+# Great Expectations
+great_expectations/uncommitted/
+
+# Docker
+*.pid
